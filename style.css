@@ -116,3 +116,24 @@ canvas{
 		background-position: 0% 50%;
 	}
 }
+
+
+/* =============================================================================
+   End Pre-Built  CSS
+   ========================================================================== */
+
+
+   h3 {
+    margin-top: 1rem;
+   }
+
+   .nav-links {
+    color: white;
+    text-decoration-line: underline overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 0.05rem;
+   }
+
+   .nav-links:hover {
+    color: black;
+   }
